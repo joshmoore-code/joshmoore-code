@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @joshmoore-code
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on anything that can help me improve as a developer
-- 📫 How to reach me- email: joshmoore8898@icloud.com
+Hello, I am Joshua Moore
+- Currently studying Java
+
+- 
+-  How to reach me- email: joshmoore8898@icloud.com
 
 <!---
 joshmoore-code/joshmoore-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
